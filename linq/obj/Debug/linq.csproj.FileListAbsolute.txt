@@ -1,0 +1,12 @@
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples\linq\bin\Debug\linq.exe.config
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples\linq\bin\Debug\linq.exe
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples\linq\bin\Debug\linq.pdb
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples\linq\obj\Debug\linq.exe
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples\linq\obj\Debug\linq.pdb
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples_off\linq\bin\Debug\linq.exe.config
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples_off\linq\obj\Debug\linq.exe
+C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples_off\linq\obj\Debug\linq.pdb
+C:\Users\virtual\Source\Repos\c_sharp_examples\linq\bin\Debug\linq.exe.config
+C:\Users\virtual\Source\Repos\c_sharp_examples\linq\obj\Debug\linq.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\linq\obj\Debug\linq.pdb
