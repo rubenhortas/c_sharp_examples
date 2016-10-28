@@ -1,0 +1,6 @@
+C:\Users\virtual\Source\Repos\c_sharp_examples\enums\bin\Debug\enums.exe.config
+C:\Users\virtual\Source\Repos\c_sharp_examples\enums\bin\Debug\enums.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\enums\bin\Debug\enums.pdb
+C:\Users\virtual\Source\Repos\c_sharp_examples\enums\obj\Debug\enums.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Source\Repos\c_sharp_examples\enums\obj\Debug\enums.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\enums\obj\Debug\enums.pdb
