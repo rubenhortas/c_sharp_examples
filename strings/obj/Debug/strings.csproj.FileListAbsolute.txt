@@ -1,0 +1,5 @@
+C:\Users\virtual\Source\Repos\c_sharp_examples\strings\bin\Debug\strings.exe.config
+C:\Users\virtual\Source\Repos\c_sharp_examples\strings\bin\Debug\strings.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\strings\bin\Debug\strings.pdb
+C:\Users\virtual\Source\Repos\c_sharp_examples\strings\obj\Debug\strings.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\strings\obj\Debug\strings.pdb

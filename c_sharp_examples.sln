@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq", "linq\linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enums", "enums\enums.csproj", "{161ECCCE-B956-4B83-BC2A-29D07075A3F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{7246EFE8-524F-4766-B6B2-2329C4E4AC25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{161ECCCE-B956-4B83-BC2A-29D07075A3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{161ECCCE-B956-4B83-BC2A-29D07075A3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{161ECCCE-B956-4B83-BC2A-29D07075A3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7246EFE8-524F-4766-B6B2-2329C4E4AC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7246EFE8-524F-4766-B6B2-2329C4E4AC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7246EFE8-524F-4766-B6B2-2329C4E4AC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7246EFE8-524F-4766-B6B2-2329C4E4AC25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
