@@ -34,7 +34,7 @@ namespace ElvisOperator
                 Console.Write($"I'm {superHero.Alias}.");
 
                 // Null conditional operator tests for null before accessing a member of an instance
-                string vehicle = superHero?.Vehicle?.Name;
+                string vehicle = superHero.Vehicle?.Name;
 
                 if(vehicle != null)
                 {
