@@ -1,0 +1,6 @@
+C:\Users\virtual\Source\Repos\c_sharp_examples\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\virtual\Source\Repos\c_sharp_examples\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\virtual\Source\Repos\c_sharp_examples\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Source\Repos\c_sharp_examples\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\virtual\Source\Repos\c_sharp_examples\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
