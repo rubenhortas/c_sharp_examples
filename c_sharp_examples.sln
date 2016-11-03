@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "strings\Strings.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{DDF6B7E9-10F5-4A74-B419-6E72A4E5A091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalMemberAccess", "ElvisOperator\NullConditionalMemberAccess.csproj", "{7DDBEAE7-D725-4215-81EA-A59C4DAB8491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DDF6B7E9-10F5-4A74-B419-6E72A4E5A091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDF6B7E9-10F5-4A74-B419-6E72A4E5A091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDF6B7E9-10F5-4A74-B419-6E72A4E5A091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DDBEAE7-D725-4215-81EA-A59C4DAB8491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDBEAE7-D725-4215-81EA-A59C4DAB8491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDBEAE7-D725-4215-81EA-A59C4DAB8491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDBEAE7-D725-4215-81EA-A59C4DAB8491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
