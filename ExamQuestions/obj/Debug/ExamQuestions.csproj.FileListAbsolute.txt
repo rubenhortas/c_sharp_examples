@@ -4,3 +4,6 @@ C:\Users\virtual\Source\Repos\c_sharp_examples\ExamQuestions\bin\Debug\ExamQuest
 C:\Users\virtual\Source\Repos\c_sharp_examples\ExamQuestions\obj\Debug\ExamQuestions.csprojResolveAssemblyReference.cache
 C:\Users\virtual\Source\Repos\c_sharp_examples\ExamQuestions\obj\Debug\ExamQuestions.exe
 C:\Users\virtual\Source\Repos\c_sharp_examples\ExamQuestions\obj\Debug\ExamQuestions.pdb
+C:\Users\ruben\Source\Repos\c_sharp_examples\ExamQuestions\bin\Debug\ExamQuestions.exe.config
+C:\Users\ruben\Source\Repos\c_sharp_examples\ExamQuestions\obj\Debug\ExamQuestions.exe
+C:\Users\ruben\Source\Repos\c_sharp_examples\ExamQuestions\obj\Debug\ExamQuestions.pdb

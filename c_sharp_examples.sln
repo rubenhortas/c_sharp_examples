@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalMemberAccess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamQuestions", "ExamQuestions\ExamQuestions.csproj", "{2C56AFEA-C6F6-4509-A179-FB14E7865816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{F13A8538-B186-41A4-B4AB-4C15FFE65935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield_example", "Yield_example\Yield_example.csproj", "{F0EC5593-6410-4A61-A98B-89708CE25E7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{2C56AFEA-C6F6-4509-A179-FB14E7865816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C56AFEA-C6F6-4509-A179-FB14E7865816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C56AFEA-C6F6-4509-A179-FB14E7865816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13A8538-B186-41A4-B4AB-4C15FFE65935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13A8538-B186-41A4-B4AB-4C15FFE65935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13A8538-B186-41A4-B4AB-4C15FFE65935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13A8538-B186-41A4-B4AB-4C15FFE65935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0EC5593-6410-4A61-A98B-89708CE25E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EC5593-6410-4A61-A98B-89708CE25E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EC5593-6410-4A61-A98B-89708CE25E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EC5593-6410-4A61-A98B-89708CE25E7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
