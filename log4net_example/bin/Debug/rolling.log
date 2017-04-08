@@ -1,0 +1,15 @@
+2017-04-08 13:09:00,306 [9] FATAL log4net_example.Program - Fatal
+2017-04-08 13:09:00,339 [9] ERROR log4net_example.Program - Error
+2017-04-08 13:09:00,339 [9] WARN log4net_example.Program - Warn
+2017-04-08 13:09:00,339 [9] INFO log4net_example.Program - Info
+2017-04-08 13:09:00,340 [9] DEBUG log4net_example.Program - Debug
+2017-04-08 13:12:37,458 [8] FATAL log4net_example.Program - Fatal
+2017-04-08 13:12:37,507 [8] ERROR log4net_example.Program - Error
+2017-04-08 13:12:37,518 [8] WARN log4net_example.Program - Warn
+2017-04-08 13:12:37,529 [8] INFO log4net_example.Program - Info
+2017-04-08 13:12:37,540 [8] DEBUG log4net_example.Program - Debug
+2017-04-08 13:46:37,788 [9] FATAL log4net_example.Program - Fatal
+2017-04-08 13:46:37,853 [9] ERROR log4net_example.Program - Error
+2017-04-08 13:46:37,864 [9] WARN log4net_example.Program - Warn
+2017-04-08 13:46:37,873 [9] INFO log4net_example.Program - Info
+2017-04-08 13:46:37,884 [9] DEBUG log4net_example.Program - Debug

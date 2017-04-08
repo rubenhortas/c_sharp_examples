@@ -1,0 +1,8 @@
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\bin\Debug\log4net_example.exe.config
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\bin\Debug\log4net_example.exe
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\bin\Debug\log4net_example.pdb
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\bin\Debug\log4net.dll
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\bin\Debug\log4net.xml
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\obj\Debug\log4net_example.csprojResolveAssemblyReference.cache
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\obj\Debug\log4net_example.exe
+C:\Users\ruben\Source\Repos\c_sharp_examples\log4net_example\obj\Debug\log4net_example.pdb
