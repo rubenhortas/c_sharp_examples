@@ -8,7 +8,7 @@ namespace linq
     {
         static void Main(string[] args)
         {
-            List<Int32> numbers = Enumerable.Range(1, 10).ToList();
+            List<int> numbers = Enumerable.Range(1, 10).ToList();
             List<string> numberNames = new List<string> { "one", "two", "three", "four" };
 
             var firstNumberName = numberNames.First(nn => nn.StartsWith("t"));
@@ -28,8 +28,8 @@ namespace linq
             var projectionOdds = projection.Where(p => p.Odd).ToList();
             var odds = projectionOdds.Select(n => n.Value.ToString()).ToList();
 
-            Console.WriteLine(String.Join(",",evens));
-            Console.WriteLine(String.Join(",",odds));
+            Console.WriteLine(string.Join(",",evens));
+            Console.WriteLine(string.Join(",",odds));
             Console.ReadLine();
             
         }

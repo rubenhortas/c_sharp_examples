@@ -10,3 +10,6 @@ C:\Users\virtual\Documents\Visual Studio 2015\Projects\c_sharp_examples_off\linq
 C:\Users\virtual\Source\Repos\c_sharp_examples\linq\bin\Debug\linq.exe.config
 C:\Users\virtual\Source\Repos\c_sharp_examples\linq\obj\Debug\linq.exe
 C:\Users\virtual\Source\Repos\c_sharp_examples\linq\obj\Debug\linq.pdb
+C:\Users\ruben\Source\Repos\c_sharp_examples\linq\bin\Debug\linq.exe.config
+C:\Users\ruben\Source\Repos\c_sharp_examples\linq\obj\Debug\linq.exe
+C:\Users\ruben\Source\Repos\c_sharp_examples\linq\obj\Debug\linq.pdb
