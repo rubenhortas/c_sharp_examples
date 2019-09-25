@@ -1,6 +1,0 @@
-C:\Users\ruben\Source\Repos\c_sharp_examples\DelegateExample\bin\Debug\DelegateExample.exe.config
-C:\Users\ruben\Source\Repos\c_sharp_examples\DelegateExample\bin\Debug\DelegateExample.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\DelegateExample\bin\Debug\DelegateExample.pdb
-C:\Users\ruben\Source\Repos\c_sharp_examples\DelegateExample\obj\Debug\DelegateExample.csprojResolveAssemblyReference.cache
-C:\Users\ruben\Source\Repos\c_sharp_examples\DelegateExample\obj\Debug\DelegateExample.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\DelegateExample\obj\Debug\DelegateExample.pdb

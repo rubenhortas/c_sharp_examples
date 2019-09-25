@@ -1,6 +1,0 @@
-C:\Users\ruben\Source\Repos\c_sharp_examples\Yield_example\bin\Debug\Yield_example.exe.config
-C:\Users\ruben\Source\Repos\c_sharp_examples\Yield_example\bin\Debug\Yield_example.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\Yield_example\bin\Debug\Yield_example.pdb
-C:\Users\ruben\Source\Repos\c_sharp_examples\Yield_example\obj\Debug\Yield_example.csprojResolveAssemblyReference.cache
-C:\Users\ruben\Source\Repos\c_sharp_examples\Yield_example\obj\Debug\Yield_example.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\Yield_example\obj\Debug\Yield_example.pdb

@@ -1,6 +1,0 @@
-C:\Users\ruben\Source\Repos\c_sharp_examples\Dictionaries\bin\Debug\Dictionaries.exe.config
-C:\Users\ruben\Source\Repos\c_sharp_examples\Dictionaries\bin\Debug\Dictionaries.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\Dictionaries\bin\Debug\Dictionaries.pdb
-C:\Users\ruben\Source\Repos\c_sharp_examples\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
-C:\Users\ruben\Source\Repos\c_sharp_examples\Dictionaries\obj\Debug\Dictionaries.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\Dictionaries\obj\Debug\Dictionaries.pdb

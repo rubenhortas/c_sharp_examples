@@ -1,6 +1,0 @@
-C:\Users\virtual\Source\Repos\c_sharp_examples\ElvisOperator\bin\Debug\ElvisOperator.exe.config
-C:\Users\virtual\Source\Repos\c_sharp_examples\ElvisOperator\bin\Debug\ElvisOperator.exe
-C:\Users\virtual\Source\Repos\c_sharp_examples\ElvisOperator\bin\Debug\ElvisOperator.pdb
-C:\Users\virtual\Source\Repos\c_sharp_examples\ElvisOperator\obj\Debug\NullConditionalMemberAccess.csprojResolveAssemblyReference.cache
-C:\Users\virtual\Source\Repos\c_sharp_examples\ElvisOperator\obj\Debug\ElvisOperator.exe
-C:\Users\virtual\Source\Repos\c_sharp_examples\ElvisOperator\obj\Debug\ElvisOperator.pdb

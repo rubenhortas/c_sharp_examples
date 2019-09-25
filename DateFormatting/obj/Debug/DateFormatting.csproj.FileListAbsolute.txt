@@ -1,5 +1,0 @@
-C:\Users\ruben\Source\Repos\c_sharp_examples\DateFormatting\bin\Debug\DateFormatting.exe.config
-C:\Users\ruben\Source\Repos\c_sharp_examples\DateFormatting\bin\Debug\DateFormatting.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\DateFormatting\bin\Debug\DateFormatting.pdb
-C:\Users\ruben\Source\Repos\c_sharp_examples\DateFormatting\obj\Debug\DateFormatting.exe
-C:\Users\ruben\Source\Repos\c_sharp_examples\DateFormatting\obj\Debug\DateFormatting.pdb

@@ -1,1 +1,0 @@
-c:\users\virtual\documents\visual studio 2015\Projects\c_sharp_examples\c_sharp_examples\bin\Debug\c_sharp_examples.exe.config

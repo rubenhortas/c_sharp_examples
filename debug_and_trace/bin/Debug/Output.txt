@@ -1,4 +1,0 @@
-Debug line
-    showAssert is true
-Trace line
-    showAssert is true
