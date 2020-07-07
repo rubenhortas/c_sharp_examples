@@ -1,6 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
+/*
+ * When you use the yield contextual keyword in a statement, you indicate that the method, 
+ * operator, or get accessor in which it appears is an iterator. Using yield to define an iterator 
+ * removes the need for an explicit extra class (the class that holds the state for an enumeration, 
+ * see IEnumerator<T> for an example) when you implement the IEnumerable and IEnumerator pattern for 
+ * a custom collection type.
+ * 
+ * Use a yield return statement to return each element one at a time.
+ */
 namespace Yield_example
 {
     public static class PowersOfTwo
@@ -21,6 +30,8 @@ namespace Yield_example
             for (int i = 0; i < exponent; i++)
             {
                 result = result * number;
+
+                //Use a yield return statement to return each element one at a time.
                 yield return result;
             }
         }
