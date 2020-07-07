@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "linq\Linq.csproj", "{D0714E98-1072-4BD6-8C49-55D0850E4D2E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "enums\Enums.csproj", "{161ECCCE-B956-4B83-BC2A-29D07075A3F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "strings\Strings.csproj", "{7246EFE8-524F-4766-B6B2-2329C4E4AC25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExamples", "strings\StringExamples.csproj", "{7246EFE8-524F-4766-B6B2-2329C4E4AC25}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{DDF6B7E9-10F5-4A74-B419-6E72A4E5A091}"
 EndProject
@@ -15,17 +15,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalMemberAccess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamQuestions", "ExamQuestions\ExamQuestions.csproj", "{2C56AFEA-C6F6-4509-A179-FB14E7865816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{F13A8538-B186-41A4-B4AB-4C15FFE65935}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExamples", "Dictionaries\DictionaryExamples.csproj", "{F13A8538-B186-41A4-B4AB-4C15FFE65935}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield_example", "Yield_example\Yield_example.csproj", "{F0EC5593-6410-4A61-A98B-89708CE25E7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldExample", "Yield_example\YieldExample.csproj", "{F0EC5593-6410-4A61-A98B-89708CE25E7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateFormatting", "DateFormatting\DateFormatting.csproj", "{846EE75A-1B80-4C71-B993-2267E0C0A126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net_example", "log4net_example\log4net_example.csproj", "{A139019A-61E8-4909-B25A-8E2309AE232C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4netExample", "log4net_example\log4netExample.csproj", "{A139019A-61E8-4909-B25A-8E2309AE232C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debug_and_trace", "debug_and_trace\debug_and_trace.csproj", "{95361944-46AD-4A47-B585-6AA0106680AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugAndTrace", "debug_and_trace\DebugAndTrace.csproj", "{95361944-46AD-4A47-B585-6AA0106680AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample", "DelegateExample\DelegateExample.csproj", "{7BDF5802-703D-4EB5-8973-A41E4D1A79DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExamples", "DelegateExample\DelegateExamples.csproj", "{7BDF5802-703D-4EB5-8973-A41E4D1A79DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -84,5 +84,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C61F18B5-CFBE-4116-8D99-DC97E65EA6D2}
 	EndGlobalSection
 EndGlobal
