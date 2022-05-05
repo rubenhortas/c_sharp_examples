@@ -1,2 +1,2 @@
-# c_sharp_examples
-C# snippets of code
+# c# examples
+Small examples of C# code
