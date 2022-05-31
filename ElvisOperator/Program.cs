@@ -18,10 +18,10 @@ namespace ElvisOperator
         {
             public string Name { get; set; }
         }
-        static void Main(string[] args)
+
+        static void Main()
         {
             List<SuperHero> superHeros = new List<SuperHero>();
-
             SuperVehicle batmobile = new SuperVehicle { Name = "Batmobile" };
             SuperHero batman = new SuperHero { Alias = "Batman", Vehicle = batmobile };
             SuperHero aquaman = new SuperHero { Alias = "Aquaman" };

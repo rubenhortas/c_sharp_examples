@@ -4,7 +4,7 @@ namespace strings
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             // Print a char many times
             string s1 = new string('*', 25);

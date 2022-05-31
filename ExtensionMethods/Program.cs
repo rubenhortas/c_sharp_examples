@@ -4,7 +4,7 @@ namespace ExtensionMethods
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             AntiHero superHero = new AntiHero { Name = "Johnny Blaze", SecretIdentity = "Ghost Rider" };
             superHero.SayName();

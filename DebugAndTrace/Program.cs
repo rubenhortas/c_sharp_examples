@@ -5,7 +5,7 @@ namespace debug_and_trace
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             TextWriterTraceListener tr1 = new TextWriterTraceListener(Console.Out);
             Debug.Listeners.Add(tr1);

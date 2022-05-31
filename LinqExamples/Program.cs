@@ -6,7 +6,7 @@ namespace linq
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<int> numbers = Enumerable.Range(1, 10).ToList();
             List<string> numberNames = new List<string> { "one", "two", "three", "four" };
@@ -31,7 +31,6 @@ namespace linq
             Console.WriteLine(string.Join(",",evens));
             Console.WriteLine(string.Join(",",odds));
             Console.ReadLine();
-            
         }
     }
 }

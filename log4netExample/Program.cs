@@ -16,7 +16,7 @@ namespace log4net_example
     {
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine(string.Format("System.Reflection.MethodBase.GetCurrentMethod().DeclaringType: {0}", System.Reflection.MethodBase.GetCurrentMethod().DeclaringType));
             log.Fatal("Fatal");
