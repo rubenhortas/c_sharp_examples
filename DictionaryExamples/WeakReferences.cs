@@ -38,6 +38,5 @@ namespace Dictionaries
                 this.value = value;
             }
         }
-
     }
 }
