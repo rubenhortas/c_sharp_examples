@@ -25,16 +25,19 @@ namespace enums
                 typeof(DescriptionAttribute),
                 false);
 
-            if (attributes != null &&
-                attributes.Length > 0)
+            if (attributes != null && attributes.Length > 0)
+            {
                 return attributes[0].Description;
+            }
             else
+            {
                 return value.ToString();
+            }
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
-            foreach(Enum number in Enum.GetValues(typeof(Numbers)))
+            foreach (Enum number in Enum.GetValues(typeof(Numbers)))
             {
                 Console.WriteLine(GetEnumDescription(number));
             }
