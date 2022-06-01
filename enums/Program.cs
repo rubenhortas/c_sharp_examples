@@ -8,12 +8,9 @@ namespace enums
     {
         private enum Numbers
         {
-            [Description("Number One")]
-            One,
-            [Description("Number Two")]
-            Two,
-            [Description("Number Three")]
-            Three
+            [Description("Number One")] One,
+            [Description("Number Two")] Two,
+            [Description("Number Three")] Three
         }
 
         private static string GetEnumDescription(Enum value)
