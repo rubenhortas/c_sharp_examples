@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-
-namespace ElvisOperator
+namespace NullConditionalMemberAccess // Elvis Operator
 {
     class Program
     {

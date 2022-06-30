@@ -15,6 +15,7 @@ namespace Dictionaries
             {
                 Console.WriteLine(string.Format("{0} - {1}", item.Key, item.Value));
             }
+
             Console.ReadLine();
         }
 
