@@ -16,7 +16,7 @@
 
 | Private element     | Notation                    | Example                                    | Notes           |
 |---------------------|-----------------------------|--------------------------------------------|-----------------|
-| *                   | cameCase (lowerCamelCase)   | private IWorkerQueue **\_workerQueue**;    | Prefix with \_  |
+| *                   | cameCase (lowerCamelCase)   | private IWorkerQueue \_workerQueue;        | Prefix with \_  |
 | static field        | cameCase (lowerCamelCase)   | private static IWorkerQueue s_workerQueue; | Prefix with s\_ |
 | thread static field | PascalCase (lowerCamelCase) | private static TimeSpan t_timeSpan;        | Prefix with t\_ |
 
