@@ -1,16 +1,16 @@
 # Public elements
 
-| Public element | Notation                     | Example        | Notes                                                                                                             |
-|----------------|------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------|
-| Class          | PascalCase (UpperCamelCase)  | ClassName      |                                                                                                                   |
-| Event          | PascalCase (UpperCamelCase)  | EventName      |                                                                                                                   |
-| Function       | PascalCase (UpperCamelCase)  | FunctionName   |                                                                                                                   |
-| Interface      | PascalCase (UpperCamelCase)  | IInterfaceName | Prefixing the name with an I                                                                                      |
-| Method         | PascalCase (UpperCamelCase)  | MethodName     |                                                                                                                   |
-| Parameter      | cameCase lowerCamelCase)     | parameter      |                                                                                                                   |
-| Property       | PascalCase (UpperCamelCase)  | PropertyName   |                                                                                                                   |
-| Record         | PascalCase (UpperCamelCase)  | RecordName     | When writing positional records, use pascal casing for parameters as they're the public properties of the record. |
-| Struct         | PascalCase (UpperCamelCase)  | StructName     |                                                                                                                   |
+| Public element | Notation                    | Example      | Notes                                                                    |
+|----------------|-----------------------------|--------------|--------------------------------------------------------------------------|
+| Class          | PascalCase (UpperCamelCase) | ClassName    |                                                                          |
+| Event          | PascalCase (UpperCamelCase) | EventName    |                                                                          |
+| Function       | PascalCase (UpperCamelCase) | FunctionName |                                                                          |
+| Interface      | PascalCase (UpperCamelCase) | IMyInterface | Prefixing the name with an I.                                            |
+| Method         | PascalCase (UpperCamelCase) | MethodName   |                                                                          |
+| Parameter      | cameCase lowerCamelCase)    | parameter    |                                                                          |
+| Property       | PascalCase (UpperCamelCase) | PropertyName |                                                                          |
+| Record         | PascalCase (UpperCamelCase) | RecordName   |  Consider the parameters as they're the public properties of the record. |
+| Struct         | PascalCase (UpperCamelCase) | StructName   |                                                                          |
 
 # Private elements
 
@@ -37,9 +37,9 @@
 - End comment text with a period
 - Insert one space between the comment delimiter (//) and the comment text
 - Don't create formatted blocks of asterisks around comments
-- nsure all public members have the necessary XML comments providing appropriate descriptions about their behavior
+- Ensure all public members have the necessary XML comments providing appropriate descriptions about their behavior
 
 
 
 # Sources
-[Microsoft C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [Microsoft C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
