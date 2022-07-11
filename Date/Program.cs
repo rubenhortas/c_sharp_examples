@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DateFormatting
+namespace Date
 {
     class Program
     {

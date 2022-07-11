@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DelegateExample
+namespace Delegate
 {
     public delegate void AddBookCallback(int i);
 

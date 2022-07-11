@@ -9,7 +9,10 @@ namespace ExtensionMethods
             AntiHero superHero = new AntiHero { Name = "Johnny Blaze", SecretIdentity = "Ghost Rider" };
             superHero.SayName();
             superHero.RevealSecretIdentity();
-            superHero.Uncover(); // Extension method
+            
+            // Extension method.
+            superHero.Uncover();
+            
             Console.ReadLine();
         }
     }

@@ -1,10 +1,10 @@
-﻿namespace Dictionaries
+﻿namespace Dictionary
 {
     class Program
     {
         static void Main()
         {
-            WeakReferences.Start();
+            WeakReference.Start();
         }
     }
 }

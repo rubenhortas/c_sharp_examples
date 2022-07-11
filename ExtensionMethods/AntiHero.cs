@@ -14,7 +14,7 @@ namespace ExtensionMethods
 
         public void RevealSecretIdentity()
         {
-            Console.WriteLine($"I'm {SecretIdentity}");
+            Console.WriteLine($"My secret identity is {SecretIdentity}");
         }
     }
 }

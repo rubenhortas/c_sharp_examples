@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NullConditionalMemberAccess // Elvis Operator
+// NullConditionalMemberAccess also known as Elvis Operator
+namespace NullConditionalMemberAccess
 {
     class Program
     {
@@ -29,17 +30,15 @@ namespace NullConditionalMemberAccess // Elvis Operator
 
             foreach(SuperHero superHero in superHeros)
             {
-                Console.Write($"I'm {superHero.Alias}.");
-
                 // Null conditional operator tests for null before accessing a member of an instance
                 string vehicle = superHero.Vehicle?.Name;
 
                 if(vehicle != null)
                 {
-                    Console.WriteLine($"My vehicle is {superHero.Vehicle.Name}");
+                    Console.WriteLine($"I'm {superHero.Alias}. My vehicle is {superHero.Vehicle.Name}");
                 } else
                 {
-                    Console.WriteLine("I have no vehicle :(");
+                    Console.WriteLine($"I'm {superHero.Alias}. I have no vehicle :(");
                 }
             }
 

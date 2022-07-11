@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Reflection;
 
-namespace enums
+namespace Enum
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace enums
             [Description("Number Three")] Three
         }
 
-        private static string GetEnumDescription(Enum value)
+        private static string GetEnumDescription(System.Enum value)
         {
             FieldInfo fi = value.GetType().GetField(value.ToString());
 
@@ -34,7 +34,7 @@ namespace enums
 
         static void Main()
         {
-            foreach (Enum number in Enum.GetValues(typeof(Numbers)))
+            foreach (System.Enum number in System.Enum.GetValues(typeof(Numbers)))
             {
                 Console.WriteLine(GetEnumDescription(number));
             }

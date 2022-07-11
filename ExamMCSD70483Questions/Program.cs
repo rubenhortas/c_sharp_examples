@@ -6,7 +6,7 @@ namespace ExamQuestions
     {
         static void Main()
         {
-            //SqlOrderBy.Start();
+            // SqlOrderBy.Start();
 
             var multipleInterfaces = new MultipleInterfaces();
 

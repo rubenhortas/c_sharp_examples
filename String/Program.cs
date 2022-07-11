@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace strings
+namespace String
 {
     class Program
     {
@@ -8,7 +8,7 @@ namespace strings
         {
             // Print a char many times
             string s1 = new string('*', 25);
-            Console.WriteLine(s1); // *************************
+            Console.WriteLine(s1);
 
             // Interpolation strings
             string minion = "Mini Me";
@@ -22,7 +22,7 @@ namespace strings
             // using the specified separator between each member or element. 
             string[] helloWorldArray = { "hello", "world!" };
 
-            string joinedString = String.Join(",", helloWorldArray);
+            string joinedString = string.Join(",", helloWorldArray);
             Console.WriteLine(joinedString); // hello,world!
 
             // Split
@@ -31,9 +31,7 @@ namespace strings
 
             foreach (string s in splittedString)
             {
-                Console.WriteLine(s);   //one, 
-                                        // two,
-                                        // three
+                Console.WriteLine(s);
             }
 
             // Contains

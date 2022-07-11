@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DelegateExample
+namespace Delegate
 {
     public class Runner
     {
@@ -10,7 +10,7 @@ namespace DelegateExample
         {
             booktracker.AddBook(name, delegate (int i)
             {
-                Console.WriteLine(string.Format("{0} {1}",name, i.ToString()));
+                Console.WriteLine($"{name} {i}");
             });
         }
     }

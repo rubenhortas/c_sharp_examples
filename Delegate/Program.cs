@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DelegateExample
+namespace Delegate
 {
     class Program
     {
