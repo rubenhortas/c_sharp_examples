@@ -3,6 +3,7 @@
 | Public element | Notation                    | Example      | Notes                                                                    |
 |----------------|-----------------------------|--------------|--------------------------------------------------------------------------|
 | Class          | PascalCase (UpperCamelCase) | ClassName    |                                                                          |
+| Enum           | PascalCase (UpperCamelCase) | EventName    |                                                                          |
 | Event          | PascalCase (UpperCamelCase) | EventName    |                                                                          |
 | Function       | PascalCase (UpperCamelCase) | FunctionName |                                                                          |
 | Interface      | PascalCase (UpperCamelCase) | IMyInterface | Prefixing the name with an I.                                            |
@@ -43,3 +44,4 @@
 
 # Sources
 * [Microsoft Docs: C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+* [Microsoft Docs: Names of classes, structs and interfaces](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces)
