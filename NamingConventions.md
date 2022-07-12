@@ -3,7 +3,7 @@
 | Public element | Notation                    | Example      | Notes                                                                    |
 |----------------|-----------------------------|--------------|--------------------------------------------------------------------------|
 | Class          | PascalCase (UpperCamelCase) | ClassName    |                                                                          |
-| Constan        | PascalCase (UpperCamelCase) | ConstantName |                                                                          |
+| Constant       | PascalCase (UpperCamelCase) | ConstantName |                                                                          |
 | Enum           | PascalCase (UpperCamelCase) | EventName    |                                                                          |
 | Event          | PascalCase (UpperCamelCase) | EventName    |                                                                          |
 | Function       | PascalCase (UpperCamelCase) | FunctionName |                                                                          |
