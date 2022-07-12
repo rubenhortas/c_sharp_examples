@@ -38,7 +38,7 @@ namespace Dictionary
             {
                 this._value = value;
             }
-            
+
             public override string ToString()
             {
                 return this._value.ToString();

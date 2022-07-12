@@ -7,8 +7,8 @@
     <ProjectGuid>{161ECCCE-B956-4B83-BC2A-29D07075A3F2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>enums</RootNamespace>
-    <AssemblyName>enums</AssemblyName>
+    <RootNamespace>Enum</RootNamespace>
+    <AssemblyName>Enum</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

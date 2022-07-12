@@ -7,8 +7,8 @@
     <ProjectGuid>{2C56AFEA-C6F6-4509-A179-FB14E7865816}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExamQuestions</RootNamespace>
-    <AssemblyName>ExamQuestions</AssemblyName>
+    <RootNamespace>ExamMCSD70483Questions</RootNamespace>
+    <AssemblyName>ExamMCSD70483Questions</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

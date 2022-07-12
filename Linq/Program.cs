@@ -12,7 +12,7 @@ namespace Linq
             List<string> numberNames = new List<string> { "one", "two", "three", "four" };
 
             var firstNumberName = numberNames.First(nn => nn.StartsWith("t"));
-            Console.WriteLine(string.Format("firstNumber: {0}", firstNumberName));
+            Console.WriteLine($"firstNumber: {firstNumberName}");
 
             var projection = from n in numbers
                              select new
@@ -28,9 +28,8 @@ namespace Linq
             var projectionOdds = projection.Where(p => p.Odd).ToList();
             var odds = projectionOdds.Select(n => n.Value.ToString()).ToList();
 
-            Console.WriteLine(string.Join(",",evens));
-            Console.WriteLine(string.Join(",",odds));
-            Console.ReadLine();
+            Console.WriteLine(string.Join(",", evens));
+            Console.WriteLine(string.Join(",", odds));
         }
     }
 }

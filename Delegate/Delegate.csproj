@@ -7,8 +7,8 @@
     <ProjectGuid>{7BDF5802-703D-4EB5-8973-A41E4D1A79DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DelegateExample</RootNamespace>
-    <AssemblyName>DelegateExample</AssemblyName>
+    <RootNamespace>Delegate</RootNamespace>
+    <AssemblyName>Delegate</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

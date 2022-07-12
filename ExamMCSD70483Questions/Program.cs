@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ExamQuestions
+﻿namespace ExamMCSD70483Questions
 {
     class Program
     {
@@ -12,7 +10,6 @@ namespace ExamQuestions
 
             ((IFile)multipleInterfaces).Open();
             ((IDbConnection)multipleInterfaces).Open();
-            Console.ReadLine();
         }
     }
 }

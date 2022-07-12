@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Delegate
+﻿namespace Delegate
 {
     class Program
     {
@@ -8,7 +6,6 @@ namespace Delegate
         {
             Runner runner = new Runner();
             runner.Add("blade");
-            Console.ReadLine();
         }
     }
 }

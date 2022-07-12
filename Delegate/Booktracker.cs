@@ -6,12 +6,12 @@ namespace Delegate
 
     public class Booktracker
     {
-        private List<string> books = new List<string>();
+        private List<string> _books = new List<string>();
 
         public void AddBook(string name, AddBookCallback callback)
         {
-            books.Add(name);
-            callback(books.Count);
+            _books.Add(name);
+            callback(_books.Count);
         }
     }
 }

@@ -7,8 +7,8 @@
     <ProjectGuid>{95361944-46AD-4A47-B585-6AA0106680AD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>debug_and_trace</RootNamespace>
-    <AssemblyName>debug_and_trace</AssemblyName>
+    <RootNamespace>DebugAndTrace</RootNamespace>
+    <AssemblyName>DebugAndTrace</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

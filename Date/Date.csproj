@@ -7,8 +7,8 @@
     <ProjectGuid>{846EE75A-1B80-4C71-B993-2267E0C0A126}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DateFormatting</RootNamespace>
-    <AssemblyName>DateFormatting</AssemblyName>
+    <RootNamespace>Date</RootNamespace>
+    <AssemblyName>Date</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

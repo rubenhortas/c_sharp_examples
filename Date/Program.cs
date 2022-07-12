@@ -1,13 +1,10 @@
-﻿using System;
-
-namespace Date
+﻿namespace Date
 {
     class Program
     {
         static void Main()
         {
             Temperature.DisplayTemperature();
-            Console.ReadLine();
         }
     }
 }

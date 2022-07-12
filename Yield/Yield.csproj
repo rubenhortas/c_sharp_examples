@@ -7,8 +7,8 @@
     <ProjectGuid>{F0EC5593-6410-4A61-A98B-89708CE25E7B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Yield_example</RootNamespace>
-    <AssemblyName>Yield_example</AssemblyName>
+    <RootNamespace>Yield</RootNamespace>
+    <AssemblyName>Yield</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

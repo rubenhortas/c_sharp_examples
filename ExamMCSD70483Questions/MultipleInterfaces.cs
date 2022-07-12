@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExamQuestions
+namespace ExamMCSD70483Questions
 {
     public interface IFile
     {

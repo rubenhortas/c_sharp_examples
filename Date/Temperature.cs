@@ -6,10 +6,11 @@ namespace Date
 {
     public static class Temperature
     {
+        private const Decimal Temp = 25.45678M;
         public static void DisplayTemperature()
         {
             Thread.CurrentThread.CurrentCulture = new CultureInfo("en-us");
-            Console.WriteLine($"Temperature at {DateTime.Now:HH:mm} on {DateTime.Now:MM/dd/yyyyy}: {25.45678:N2}F");
+            Console.WriteLine($"Temperature at {DateTime.Now:HH:mm} on {DateTime.Now:MM/dd/yyyyy}: {Temp:N2}ºF");
         }
     }
 }

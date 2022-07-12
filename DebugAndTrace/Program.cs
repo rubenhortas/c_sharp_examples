@@ -18,8 +18,6 @@ namespace DebugAndTrace
 
             // Debug and release mode.
             LogTrace();
-
-            Console.ReadLine();
         }
 
         private static void LogDebug()

@@ -15,14 +15,14 @@ namespace Enum
 
         private static string GetEnumDescription(System.Enum value)
         {
-            FieldInfo fi = value.GetType().GetField(value.ToString());
+            FieldInfo fieldInfo = value.GetType().GetField(value.ToString());
 
             DescriptionAttribute[] attributes =
-                (DescriptionAttribute[])fi.GetCustomAttributes(
+                (DescriptionAttribute[])fieldInfo.GetCustomAttributes(
                 typeof(DescriptionAttribute),
                 false);
 
-            if (attributes != null && attributes.Length > 0)
+            if ((attributes != null) && (attributes.Length > 0))
             {
                 return attributes[0].Description;
             }
@@ -38,8 +38,6 @@ namespace Enum
             {
                 Console.WriteLine(GetEnumDescription(number));
             }
-
-            Console.ReadLine();
         }
     }
 }

@@ -1,19 +1,15 @@
-﻿using System;
-
-namespace ExtensionMethods
+﻿namespace ExtensionMethods
 {
     class Program
     {
         static void Main()
         {
-            AntiHero superHero = new AntiHero { Name = "Johnny Blaze", SecretIdentity = "Ghost Rider" };
-            superHero.SayName();
-            superHero.RevealSecretIdentity();
-            
+            AntiHero antiHero = new AntiHero { Name = "Johnny Blaze", SecretIdentity = "Ghost Rider" };
+            antiHero.SayName();
+            antiHero.RevealSecretIdentity();
+
             // Extension method.
-            superHero.Uncover();
-            
-            Console.ReadLine();
+            antiHero.Uncover();
         }
     }
 }

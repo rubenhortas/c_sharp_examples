@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ExamQuestions
+namespace ExamMCSD70483Questions
 {
     public static class SqlOrderBy
     {
@@ -11,7 +11,7 @@ namespace ExamQuestions
             decimal[] loanAmounts = { 303m, 1000m, 85779, 501.51m, 603m, 1200m, 400m, 22m };
 
             loanAmounts.ToList().ForEach(delegate (decimal n) { Console.Write($"{n},"); });
-            
+
             Console.WriteLine();
 
             IEnumerable<decimal> loanQuery =
@@ -21,8 +21,6 @@ namespace ExamQuestions
                 select amount;
 
             loanQuery.ToList().ForEach(delegate (decimal n) { Console.Write($"{n},"); });
-
-            Console.ReadLine();
         }
     }
 }
