@@ -6,7 +6,7 @@ namespace Date
 {
     public static class Temperature
     {
-        private const Decimal Temp = 25.45678M;
+        private const decimal Temp = 25.45678M;
         public static void DisplayTemperature()
         {
             Thread.CurrentThread.CurrentCulture = new CultureInfo("en-us");
