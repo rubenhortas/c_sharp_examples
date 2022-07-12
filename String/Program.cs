@@ -4,51 +4,73 @@ namespace String
 {
     class Program
     {
+        private const string Minion = "Mini Me";
+        private const string EvilGenius = "Dr. Evil";
+        private const string OneTwoThree = "one, two, three";
+        private const string Numbers = "1234513370000";
+        private const string Leet = "1337";
+        private const string HelloWorld = "Hello, world!!";
+        private static readonly string[] HelloWorldArray = { "hello", "world!" };
+
+
         static void Main()
         {
-            // Print a char many times
-            string s1 = new string('*', 25);
-            Console.WriteLine(s1);
+            Print('*', 25);
+            PrintInterpolatedString();
+            Join();
+            Split();
+            Contains();
+            Remove();
+        }
 
-            // Interpolation strings
-            string minion = "Mini Me";
-            string evilGenius = "Dr. Evil";
+        private static void Print(char c, int times)
+        {
+            // Create a string made of c char n times.
+            string str = new string(c, times);
 
-            string s2 = $"{evilGenius} has a minion called {minion}"; // Dr. Evil has a minion called Mini Me
-            Console.WriteLine(s2);
+            Console.WriteLine($"'{c}' {times} times: {str}");
+        }
 
-            // Join
-            // This method is used to concatenates the members of a collection or the elements of the specified array,
+        private static void PrintInterpolatedString()
+        {
+            Console.WriteLine($"Interpolated string: \"{EvilGenius} has a minion called {Minion}\"");
+        }
+
+        private static void Join()
+        {
+            // This method is used to concatenate the members of a collection or the elements of the specified array,
             // using the specified separator between each member or element. 
-            string[] helloWorldArray = { "hello", "world!" };
+            string joinedString = string.Join(",", HelloWorldArray);
 
-            string joinedString = string.Join(",", helloWorldArray);
-            Console.WriteLine(joinedString); // hello,world!
+            Console.WriteLine($"Joined string: \"{joinedString}\""); // hello,world!
+        }
 
-            // Split
-            string str = "one, two, three";
-            string[] splittedString = str.Split();
+        private static void Split()
+        {
+            string[] splittedString = OneTwoThree.Split();
 
-            foreach (string s in splittedString)
+            Console.WriteLine("Splitted string:");
+
+            foreach (string str in splittedString)
             {
-                Console.WriteLine(s);
+                Console.WriteLine($"\t{str}");
             }
+        }
 
-            // Contains
-            string numbers = "1234513370000";
-
-            if (numbers.Contains("1337"))
+        private static void Contains()
+        {
+            if (Numbers.Contains(Leet))
             {
-                Console.WriteLine("Y0u'r3 1337!"); // Y0u'r3 1337!
+                Console.WriteLine($"\"{Numbers}\" contains \"{Leet}\". Y0u'r3 h4x0r!");
             }
+        }
 
-            // Remove
-            // Remove last char
-            string helloWorld = "Hello, world!!";
-            string cleanHelloWorld = helloWorld.Remove(helloWorld.Length - 1);
-            Console.WriteLine(cleanHelloWorld); // Hello, world!
+        private static void Remove()
+        {
+            // Remove last char.
+            string cleanHelloWorld = HelloWorld.Remove(HelloWorld.Length - 1);
 
-            Console.ReadLine();
+            Console.WriteLine($"Removing last char from \"{HelloWorld}\": \"{cleanHelloWorld}\""); // Hello, world!
         }
     }
 }
