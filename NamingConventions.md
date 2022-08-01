@@ -9,7 +9,7 @@
 | Function       | PascalCase (UpperCamelCase) | FunctionName |                                                                          |
 | Interface      | PascalCase (UpperCamelCase) | IMyInterface | Prefixing the name with an I.                                            |
 | Method         | PascalCase (UpperCamelCase) | MethodName   |                                                                          |
-| Parameter      | cameCase (lowerCamelCase)   | parameter    |                                                                          |
+| Parameter      | camelCase (lowerCamelCase)  | parameter    |                                                                          |
 | Property       | PascalCase (UpperCamelCase) | PropertyName |                                                                          |
 | Record         | PascalCase (UpperCamelCase) | RecordName   |  Consider the parameters as they're the public properties of the record. |
 | Struct         | PascalCase (UpperCamelCase) | StructName   |                                                                          |
@@ -18,8 +18,8 @@
 
 | Private element     | Notation                    | Example                                    | Notes           |
 |---------------------|-----------------------------|--------------------------------------------|-----------------|
-| *                   | cameCase (lowerCamelCase)   | private IWorkerQueue \_workerQueue;        | Prefix with \_  |
-| static field        | cameCase (lowerCamelCase)   | private static IWorkerQueue s_workerQueue; | Prefix with s\_ |
+| *                   | camelCase (lowerCamelCase)  | private IWorkerQueue \_workerQueue;        | Prefix with \_  |
+| static field        | camelCase (lowerCamelCase)  | private static IWorkerQueue s_workerQueue; | Prefix with s\_ |
 | thread static field | PascalCase (lowerCamelCase) | private static TimeSpan t_timeSpan;        | Prefix with t\_ |
 
 # Layout conventions
