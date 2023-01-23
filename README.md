@@ -38,7 +38,7 @@ If you find these examples useful you can star this repo.
   if ((val1 > val2) && (val1 > val3)) {}
   ```
   
-## Commenting conventions
+## Comment conventions
 
 - Place the comment on a separate line, not at the end of a line of code
 - Begin comment text with an uppercase letter
