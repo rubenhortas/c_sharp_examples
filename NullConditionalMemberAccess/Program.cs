@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// NullConditionalMemberAccess also known as Elvis Operator
+// NullConditionalMemberAccess also known as Elvis Operator.
 namespace NullConditionalMemberAccess
 {
     class Program
@@ -18,7 +18,7 @@ namespace NullConditionalMemberAccess
 
             foreach (SuperHero superHero in superHeros)
             {
-                // Null conditional operator tests for null before accessing a member of an instance
+                // Null conditional operator tests for null before accessing a member of an instance.
                 string vehicle = superHero.Vehicle?.Name;
 
                 if (vehicle != null)

@@ -41,7 +41,8 @@ namespace String
             // using the specified separator between each member or element. 
             string joinedString = string.Join(",", HelloWorldArray);
 
-            Console.WriteLine($"Joined string: \"{joinedString}\""); // hello,world!
+            // Output: "hello,world!".
+            Console.WriteLine($"Joined string: \"{joinedString}\"");
         }
 
         private static void Split()
@@ -69,7 +70,8 @@ namespace String
             // Remove last char.
             string cleanHelloWorld = HelloWorld.Remove(HelloWorld.Length - 1);
 
-            Console.WriteLine($"Removing last char from \"{HelloWorld}\": \"{cleanHelloWorld}\""); // Hello, world!
+            // Output: "Hello, world!".
+            Console.WriteLine($"Removing last char from \"{HelloWorld}\": \"{cleanHelloWorld}\"");
         }
     }
 }
