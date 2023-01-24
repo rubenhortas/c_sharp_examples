@@ -5,6 +5,7 @@
         static void Main()
         {
             Runner runner = new Runner();
+
             runner.Add("blade");
         }
     }

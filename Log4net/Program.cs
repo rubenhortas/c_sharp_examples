@@ -10,7 +10,6 @@ namespace log4net_example
     // 3) Add section log4net to App.config
     // 4) Configure logging level in App.config
     // 5) Configure appender[s] and add the appender[s] section[s]
-
     class Program
     {
         private static readonly log4net.ILog s_log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);

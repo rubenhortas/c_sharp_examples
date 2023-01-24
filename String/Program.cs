@@ -12,7 +12,6 @@ namespace String
         private const string HelloWorld = "Hello, world!!";
         private static readonly string[] HelloWorldArray = { "hello", "world!" };
 
-
         static void Main()
         {
             Print('*', 25);

@@ -11,6 +11,7 @@ namespace Delegate
         public void AddBook(string name, AddBookCallback callback)
         {
             _books.Add(name);
+
             callback(_books.Count);
         }
     }
