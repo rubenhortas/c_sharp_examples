@@ -1,4 +1,4 @@
-# c# examples
+# C# examples
 Small examples of C# code
 
 # C# Naming conventions
@@ -44,7 +44,7 @@ Small examples of C# code
 - Don't create formatted blocks of asterisks around comments
 - Ensure all public members have the necessary XML comments providing appropriate descriptions about their behavior
 
-## Sources
+# Sources
 * [Microsoft Docs: C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 * [Microsoft Docs: Names of classes, structs and interfaces](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces)
 
