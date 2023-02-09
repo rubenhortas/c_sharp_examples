@@ -1,9 +1,6 @@
 # c# examples
 Small examples of C# code
 
-# Support
-If you find these examples useful you can star this repo.
-
 # C# Naming conventions
 
 | Public element | Notation                    | Example      | Notes                                                                    |
@@ -47,8 +44,9 @@ If you find these examples useful you can star this repo.
 - Don't create formatted blocks of asterisks around comments
 - Ensure all public members have the necessary XML comments providing appropriate descriptions about their behavior
 
-
-
 ## Sources
 * [Microsoft Docs: C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 * [Microsoft Docs: Names of classes, structs and interfaces](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces)
+
+# Support
+If you find these examples useful you can star this repo.
