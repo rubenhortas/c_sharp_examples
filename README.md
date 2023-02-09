@@ -1,7 +1,7 @@
 # C# examples
 Small examples of C# code
 
-# C# Naming conventions
+## C# Naming conventions
 
 | Public element | Notation                    | Example      | Notes                                                                    |
 |----------------|-----------------------------|--------------|--------------------------------------------------------------------------|
@@ -17,7 +17,7 @@ Small examples of C# code
 | Record         | PascalCase (UpperCamelCase) | RecordName   |  Consider the parameters as they're the public properties of the record. |
 | Struct         | PascalCase (UpperCamelCase) | StructName   |                                                                          |
 
-## Private elements
+### Private elements
 
 | Private element     | Notation                    | Example                                    | Notes           |
 |---------------------|-----------------------------|--------------------------------------------|-----------------|
@@ -25,7 +25,7 @@ Small examples of C# code
 | static field        | camelCase (lowerCamelCase)  | private static IWorkerQueue s_workerQueue; | Prefix with s\_ |
 | thread static field | PascalCase (lowerCamelCase) | private static TimeSpan t_timeSpan;        | Prefix with t\_ |
 
-## Layout conventions
+### Layout conventions
 
 - Only one statement per line
 - Only one declaration per line
@@ -35,7 +35,7 @@ Small examples of C# code
   if ((val1 > val2) && (val1 > val3)) {}
   ```
   
-## Comment conventions
+### Comment conventions
 
 - Place the comment on a separate line, not at the end of a line of code
 - Begin comment text with an uppercase letter
@@ -44,9 +44,10 @@ Small examples of C# code
 - Don't create formatted blocks of asterisks around comments
 - Ensure all public members have the necessary XML comments providing appropriate descriptions about their behavior
 
-# Sources
+## Sources
+
 * [Microsoft Docs: C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 * [Microsoft Docs: Names of classes, structs and interfaces](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces)
 
-# Support
+## Support
 If you find these examples useful you can star this repo.
