@@ -1,7 +1,14 @@
 # C# examples
-Small examples of C# code
 
-## C# Naming conventions
+A collection of C# examples.
+
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/rubenhortas/c_sharp_examples)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rubenhortas/c_sharp_examples)
+![GitHub repo size](https://img.shields.io/github/repo-size/rubenhortas/c_sharp_examples)
+
+![GitHub](https://img.shields.io/github/license/rubenhortas/c_sharp_examples)
+
+## :bookmark: C# Naming conventions
 
 | Public element | Notation                    | Example      | Notes                                                                    |
 |----------------|-----------------------------|--------------|--------------------------------------------------------------------------|
@@ -44,10 +51,11 @@ Small examples of C# code
 - Don't create formatted blocks of asterisks around comments
 - Ensure all public members have the necessary XML comments providing appropriate descriptions about their behavior
 
-## Sources
+## :books: Sources
 
 * [Microsoft Docs: C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 * [Microsoft Docs: Names of classes, structs and interfaces](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces)
 
-## Support
-If you find these examples useful you can star this repo.
+## :star: Support
+
+If you find these examples useful, please, consider starring this repository!
